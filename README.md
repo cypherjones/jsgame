@@ -1,6 +1,18 @@
-frontend-nanodegree-arcade-game
+frontend-nanodegree-arcade-gamelo9.;pijkh
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+# Classic Frogger Game
+This is a spin on the classic Frogger game written in Javascript using prototypes. I'm actually old enough to have owned the orginal game back in the day.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+To play the game you'll want to clone this repo to your own machine.
+
+## How to play
+
+The rules are pretty basic. You'll need to get your character from the starting point to the top of the game board without running into any enemies (bugs). Yep. That's it. 
+
+## Technical
+
+1. Download the repo
+2. Find the folder where you cloned the repo
+3. Open the html file in the browser of your choosing
+4. Enjoy the pure simplicity
